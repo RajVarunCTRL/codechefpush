@@ -1,6 +1,9 @@
 # cook your dish here
 
-# TLE
+# TLE, but works for small inputs ig.
+    # Hmmm
+    # https://www.codechef.com/viewsolution/1221123261
+    
 for _ in range(int(input())): # T inputs
     n = int(input())
     
